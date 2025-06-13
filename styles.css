@@ -1,0 +1,90 @@
+
+body {
+    font-family: 'Ubuntu', sans-serif;
+    background-color: #F3F4F6;
+    color: #1F2937;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: #1E3A8A;
+    color: #FFFFFF;
+    text-align: center;
+    padding: 20px;
+}
+
+header h1 {
+    margin: 0;
+    font-size: 2.5em;
+}
+
+header p {
+    margin: 10px 0 0;
+    font-size: 1.2em;
+}
+
+section {
+    padding: 20px;
+    margin: 20px;
+    background-color: #FFFFFF;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+section h2 {
+    color: #1E3A8A;
+}
+
+#what-is img {
+    width: 100%;
+    height: auto;
+    border-radius: 8px;
+}
+
+.benefits {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+}
+
+.benefit {
+    flex: 1 1 calc(50% - 20px);
+    background-color: #F3F4F6;
+    padding: 20px;
+    border-radius: 8px;
+}
+
+.benefit h3 {
+    color: #3B82F6;
+}
+
+.timeline {
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+}
+
+.step {
+    background-color: #F3F4F6;
+    padding: 20px;
+    border-radius: 8px;
+}
+
+#cta {
+    text-align: center;
+}
+
+#cta button {
+    background-color: #3B82F6;
+    color: #FFFFFF;
+    border: none;
+    padding: 10px 20px;
+    margin: 10px;
+    border-radius: 8px;
+    cursor: pointer;
+}
+
+#cta button:hover {
+    background-color: #1E3A8A;
+}
