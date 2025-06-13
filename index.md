@@ -1,3 +1,3 @@
 ---
-title: public facing files
+title: Public facing artifacts repository
 ---
