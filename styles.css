@@ -32,7 +32,12 @@ section {
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
 }
 
-section h2 .h2 {
+.h2{
+    color: #1E3A8A;
+    font-weight: bold;
+}
+
+section h2 {
     color: #1E3A8A;
     font-weight: bold;
 }
