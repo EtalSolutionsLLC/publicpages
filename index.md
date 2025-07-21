@@ -1,3 +1,3 @@
 ---
-title: Public facing artifacts repository
+title: Welcome to my blog!
 ---
