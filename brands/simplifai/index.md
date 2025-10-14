@@ -1,8 +1,8 @@
 ---
-title: Et al Solutions LLC
+title: SIMPLIFAI
 parent: Brands
 has_children: true
-nav_order: 1
+nav_order: 14
 ---
 
-# Et al Solutions LLC
+# SIMPLIFAI
