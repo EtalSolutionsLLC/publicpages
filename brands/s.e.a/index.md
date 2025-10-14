@@ -1,8 +1,8 @@
 ---
-title: Et al Solutions LLC
+title: Solutions et al (S.E.A.)
 parent: Brands
 has_children: true
 nav_order: 1
 ---
 
-# Et al Solutions LLC
+# Solutions et al

@@ -1,8 +1,8 @@
 ---
-title: Et al Solutions LLC
+title: The Transformation Thread
 parent: Brands
 has_children: true
 nav_order: 1
 ---
 
-# Et al Solutions LLC
+# The Transformation Thread
